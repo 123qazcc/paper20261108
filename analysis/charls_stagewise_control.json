@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "current_stage": 1,
+  "stage_name": "Four disease pathways and direct comparisons",
+  "stop_after_stage": true,
+  "automatic_next_stage": false,
+  "later_stages": [
+    "CESD9_sleep_duration",
+    "dynamic_sleep",
+    "blood_pressure",
+    "longitudinal_mechanisms"
+  ],
+  "allow_later_stages": false,
+  "expected_primary_run_id": "20260913_195427",
+  "expected_model_signature": "29f536800ce90e99c1195ab7d999f902c0fb8adb3f248b20a8842ac9e97299af",
+  "required_imputations": 20,
+  "requires_human_final_review": true,
+  "source_hashes": {
+    "R/14b_fit_charls_disease_models.R": "7a854f6c08239ad5bb3e3571523b04c03d4b18faec3acdd49e72b0fc091746c0",
+    "R/14e_independently_verify_charls_pool.R": "d89f9a36085bc2e8c125a7a3f87425f612b3a45ba3cdc5f243d079a940ec1f03",
+    "analysis/charls_model_stage2_contract.md": "7b08161dd1b7e288f43db5d61bd0496876427c423e749d9820a2b98b1a815e6a",
+    "outputs/charls_external_extension_20260913/data/charls_model_bundle.rds": "4cf8e45d5d7d2e2af02d67bc9e9151be679179581efc08fc29cb5adb4809ea34"
+  }
+}

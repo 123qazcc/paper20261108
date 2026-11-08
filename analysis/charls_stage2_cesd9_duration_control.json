@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "research_stage": 2,
+  "stage_name": "CESD9_sleep_duration",
+  "stage_enabled": true,
+  "models": [
+    "CORE",
+    "BOTH"
+  ],
+  "deferred_models": [
+    "CESD9",
+    "DURATION"
+  ],
+  "model_directory": "private/model_store/CHARLS_CESD9_duration_20260914/models",
+  "primary_extended_model": "BOTH",
+  "required_imputations_per_model": 20,
+  "required_model_fits": 40,
+  "expected_people": 12036,
+  "expected_panel_records": 53786,
+  "stop_after_stage": true,
+  "automatic_next_stage": false,
+  "allow_later_stages": false,
+  "requires_results_and_figure_review": true,
+  "primary_stage1_signature": "29f536800ce90e99c1195ab7d999f902c0fb8adb3f248b20a8842ac9e97299af"
+}

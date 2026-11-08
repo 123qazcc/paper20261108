@@ -1,0 +1,7 @@
+﻿analysis,test,statistic,df,p
+"CHARLS_static","four target coefficients zero","29.670872471590531",4,"5.7106025906603946e-06"
+"CHARLS_static","two heart minus stroke differences zero","12.659421481147699",2,"0.0017825493137263991"
+"CHARLS_stage2_CORE","four target coefficients zero","29.852162069831255",4,"5.2455893782944782e-06"
+"CHARLS_stage2_CORE","two heart minus stroke differences zero","12.638708467332597",2,"0.0018011062245312413"
+"CHARLS_stage2_BOTH","four target coefficients zero","20.975342325700705",4,"0.00032025379236837252"
+"CHARLS_stage2_BOTH","two heart minus stroke differences zero","12.599548785930454",2,"0.0018367191070407175"

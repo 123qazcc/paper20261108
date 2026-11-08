@@ -1,0 +1,11 @@
+﻿statistic,df,p,model,test
+"37.722661121236101",8,"8.4703694247424162e-06","CORE","Eight primary dynamic target contrasts = 0"
+"47.188630583709994",8,"1.4114930547426572e-07","CORE","Eight contextual target contrasts = 0"
+"55.407361244000654",12,"1.5296168392890642e-07","CORE","All 12 four-level-pattern target coefficients = 0"
+"5.7601848561595137",4,"0.21778793757360673","CORE","Four primary heart-minus-stroke dynamic contrasts = 0"
+"7.0197482670082509",4,"0.13484829290466888","CORE","Four contextual heart-minus-stroke contrasts = 0"
+"34.1800701609694",8,"3.7684919298262026e-05","BOTH","Eight primary dynamic target contrasts = 0"
+"37.235769623457315",8,"1.0414705521340816e-05","BOTH","Eight contextual target contrasts = 0"
+"45.974570541102594",12,"7.0086524412507803e-06","BOTH","All 12 four-level-pattern target coefficients = 0"
+"5.7442863282095038",4,"0.21907634093301556","BOTH","Four primary heart-minus-stroke dynamic contrasts = 0"
+"6.9766216494132989",4,"0.13712883384155439","BOTH","Four contextual heart-minus-stroke contrasts = 0"

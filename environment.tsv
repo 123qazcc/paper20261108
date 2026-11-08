@@ -1,0 +1,34 @@
+package	version_in_study_or_audit
+ELSA	not pinned
+GlobalAgingR	2.0.0
+MI	not pinned
+R	4.5.1
+coda	not pinned
+data.table	1.18.0
+digest	not pinned
+dplyr	not pinned
+expm	not pinned
+ggalluvial	not pinned
+ggplot2	not pinned
+grDevices	not pinned
+grid	not pinned
+haven	not pinned
+jsonlite	not pinned
+mice	3.19.0
+msm	1.8.2
+name	not pinned
+patchwork	not pinned
+pdftools	not pinned
+posterior	1.7.0
+ragg	not pinned
+scales	not pinned
+splines	not pinned
+stats	not pinned
+survey	not pinned
+survival	not pinned
+svglite	not pinned
+tableone	not pinned
+tidyr	not pinned
+tidyselect	not pinned
+tools	not pinned
+utils	not pinned
